@@ -87,9 +87,8 @@
     position: fixed;
     left: 50%;
     transform: translateX(-50%);
-    top: 170px;
-    z-index: 0;
-    
+    top: 169px;
+    z-index: 0;    
 }
 
 @media (max-width: 500px) {
@@ -126,11 +125,13 @@
     left: 48%;
     top: 470px;
   }
-#div5 {
+  #div5 {
     position: fixed;
     left: 48%;
     top: 470px;
   }
 }
+  
+
 
   
